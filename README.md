@@ -1,31 +1,14 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**mahesaiqbal/mahesaiqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi there, I'm Mahesa Iqbal 👋</h1>
 
 <p align="center">
-  💼 Android Engineer at Bank Mandiri | 💻 Jetpack Compose Enthusiast | 🌱 Lifelong Learner
+  💼 Android Engineer at Bank Mandiri &emsp; | &emsp; 💻 Jetpack Compose Enthusiast
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-&emsp; Currently, I am working at a state-owned bank in Indonesia, **Bank Mandiri**.
+&emsp; Currently, I'm working at a state-owned bank in Indonesia, **Bank Mandiri**.
 In my current job, I have developed an internal apps for **Smart Branches** spread across various regions in Indonesia to help customers' banking transactions with an Android apps called **NBDS (New Branch Delivery System)**.
 
 &emsp; After that, I was appointed to develop another Bank Mandiri Android apps called **Livin' Merchant**. This apps acts as a POS (Point of Sales) System made for entrepreneurs such as cafes, foods & beverages, barbershops, and other types of businesses to handle transactions for selling their products to customers.
@@ -43,6 +26,19 @@ In my current job, I have developed an internal apps for **Smart Branches** spre
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,gradle,sqlite,firebase,bitbucket,figma,github,ktor,postman,reactivex,stackoverflow,dart,flutter,swift,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,gradle,sqlite,firebase,bitbucket,figma,github,ktor,postman,reactivex,stackoverflow,dart,flutter,swift,vscode&perline=9" />
 </p>
 
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://mahesaiqbal.github.io/iqbal-personal-web/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="50" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mahesaiqbal/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
+  </a>
+</p>
